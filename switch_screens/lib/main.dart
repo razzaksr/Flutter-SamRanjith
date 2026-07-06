@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   // runApp(const MyApp());
-  // runApp(MaterialApp(home: FirstScreen(),));
+  runApp(MaterialApp(home: FirstScreen(),));
 }
 
 class FirstScreen extends StatelessWidget{
